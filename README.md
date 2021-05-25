@@ -11,7 +11,7 @@ A = Atirar hambúrguer.
 ← e → = Voar para os lados
 ↑ e ↓ = Voar para cima e baixo.
 
-#Inspiração (PT/BR)
+# Inspiração (PT/BR)
 O Fat Hero foi inspirado nessa playlist do canal Mation: 
 https://www.youtube.com/watch?v=5aE55KZ93xw&list=PLlW3qrNjsvBwUmUk9kio7bNT3GR554FH5&ab_channel=MationMation
 
