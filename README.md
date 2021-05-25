@@ -1,1 +1,1 @@
-<img @Screenshot_6>
+<img Screenshot_6>
