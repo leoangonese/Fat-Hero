@@ -7,9 +7,9 @@ Fat Hero(herói gordo) é um herói que odeia quando colocam picles em seu hamb�
 # Como Jogar? (PT/BR)
 O jogo é bem simples e a forma de se jogar é bem tradicional, os comandos são:
 
-A = Atirar hambúrguer.
-← e → = Voar para os lados
-↑ e ↓ = Voar para cima e baixo.
+A = Atirar hambúrguer. <br/>
+← e → = Voar para os lados <br/>
+↑ e ↓ = Voar para cima e baixo. <br/>
 
 # Inspiração (PT/BR)
 O Fat Hero foi inspirado nessa playlist do canal Mation: 
@@ -22,9 +22,9 @@ Fat Hero is a hero he hates when he pickles his hamburger, so he travels the wor
 # How to play? (EN)
 The game is very simple and the way to play is very traditional, the commands are:
 
-A = Throw hamburger.
-← and → = Fly sideways
-↑ and ↓ = Fly up and down.
+A = Throw hamburger. <br/>
+← and → = Fly sideways <br/>
+↑ and ↓ = Fly up and down. <br/>
 
 # Inspiration (EN)
 Fat Hero was inspired by the playlist on the Mation channel: 
