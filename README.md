@@ -12,5 +12,4 @@ A = Throw hamburger. <br/>
 ↑ and ↓ = Fly up and down. <br/>
 
 # Inspiration
-Fat Hero was inspired by the playlist on the Mation channel: 
-https://www.youtube.com/watch?v=5aE55KZ93xw&list=PLlW3qrNjsvBwUmUk9kio7bNT3GR554FH5&ab_channel=MationMation
+Fat Hero was inspired by the playlist on the [Mation channel](https://www.youtube.com/watch?v=5aE55KZ93xw&list=PLlW3qrNjsvBwUmUk9kio7bNT3GR554FH5&ab_channel=MationMation).
