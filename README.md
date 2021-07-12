@@ -15,7 +15,7 @@ A = Throw hamburger. <br/>
 </p>
 
 <div >
-  <img src="oi.png" alt="demo" height="425" aling="center">
+  <img src="oi.png" alt="demo" aling="center">
 </div>
 
 <hr />
