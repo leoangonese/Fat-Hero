@@ -14,7 +14,6 @@ A = Throw hamburger. <br/>
 ↑ and ↓ = Fly up and down.
 </p>
 
-[//]: # (Add your gifs/images here:)
 <div>
   <img src="oi.png" alt="demo" height="425">
 </div>
