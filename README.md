@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="logo.png" alt="Fat-Hero" width="425">
+  <img src="logo.png" alt="Fat-Hero" >
 <br>
 <br>
 Fat Hero
