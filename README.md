@@ -8,10 +8,10 @@ Fat Hero
 </h1>
 
 <p align="center">Fat Hero is a hero he hates when he pickles his hamburger, so he travels the world to destroy any and all pickles! </br>
-How to play? The game is very simple and the way to play is very traditional, the commands are:
+How to play? The game is very simple and the way to play is very traditional, the commands are: </br>
 A = Throw hamburger. <br/>
 ← and → = Fly sideways <br/>
-↑ and ↓ = Fly up and down. <br/>
+↑ and ↓ = Fly up and down.
 </p>
 
 [//]: # (Add your gifs/images here:)
