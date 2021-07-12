@@ -14,7 +14,7 @@ A = Throw hamburger. <br/>
 ↑ and ↓ = Fly up and down.
 </p>
 
-<div>
+<div aling="center">
   <img src="oi.png" alt="demo" height="425">
 </div>
 
