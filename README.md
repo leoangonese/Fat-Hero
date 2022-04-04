@@ -22,8 +22,3 @@ A = Throw hamburger. <br/>
 [//]: # (Add the features of your project here:)
 
 - <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
-
-<hr />
-
-# Inspiration
-Fat Hero was inspired by the playlist on the [Mation channel](https://www.youtube.com/watch?v=5aE55KZ93xw&list=PLlW3qrNjsvBwUmUk9kio7bNT3GR554FH5&ab_channel=MationMation).
